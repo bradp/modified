@@ -1,0 +1,12 @@
+{
+	"name": "bradp/modified",
+	"type": "wordpress-plugin",
+	"description": "View recently modified posts",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+	  {
+		"name": "Brad Parbs",
+		"email": "brad@bradparbs.com"
+	  }
+	]
+}
